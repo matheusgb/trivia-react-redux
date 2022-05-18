@@ -27,7 +27,7 @@ npm start
 [Diogo Martini](https://www.linkedin.com/in/dmpdev/) <br>
 [Leonardo Coelho](https://www.linkedin.com/in/leonardocoel/) <br>
 [Yuri Villanueva](https://www.linkedin.com/in/yuri-villanueva-17532910b/) <br>
-[Persio Pereira](https://www.linkedin.com/in/persio-pereira/)
+[Pérsio Pereira](https://www.linkedin.com/in/persio-pereira/)
 
 ![100%](Screenshot_1.png)
 
