@@ -2,7 +2,7 @@
 
 Projeto feito em grupo enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando a API OpentDB, React, Redux e Styled-Components no módulo de front-end. Coberto com 100% dos testes da Trybe.
 
-Foi desenvolvido um jogo de perguntas e respostas baseado no jogo Trivia utilizando React e Redux, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro Kanban.
+Foi desenvolvido um jogo de perguntas e respostas baseado no jogo Trivia, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro Kanban.
 
 É possível:
 - Logar no jogo e, se o email tiver cadastro no site [Gravatar](https://pt.gravatar.com), ter sua foto associada ao perfil da pessoa usuária.
